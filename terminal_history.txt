@@ -1,0 +1,30 @@
+   85  vikktor@localhost
+   86  ssh vikktor@localhost
+   87  cd ~incident001
+   88  ls -la
+   89  sudo lastb > logs_failed.txt
+   90  sudo last > logs_success.txt
+   91  ssh vikktor@localhost
+   92  starwars1977
+   93  sudo lastb | head -5
+   94  sudo lastb | head -1 >> logs_failed.txt
+   95  ssh vikktor@localhost
+   96  pwd
+   97  cd ~incident001
+   98  ls -la /tmp/.hidden_system_file > evidence/file_permissions.txt
+   99  ls -la /tmp/.hidden_system_fyle > evidence/file_permissions.txt
+  100  ls -la /tmp/.hidden_system_fyle
+  101  sudo touch /tmp/.hidden_system_file
+  102  sudo chmod 777 /tmp/.hidden_system_file
+  103  ls -la /tmp/.hidden_system_file
+  104  ls -la /tmp/.hidden_system_file > evidence/file_permissions.txt
+  105  cd ~incident001
+  106  cd ~/incident001
+  107  pwd
+  108  cat evidence/file_permissions.txt
+  109  ls -la /tmp/.hidden_system_file > evidence/file_permissions.txt
+  110  ls -la /tmp/.hidden_system_file > evidence/file_permissions.txt
+  111  cat evidence/file_permissions.txt
+  112  echo "ПРОВЕРКА УЛИК"
+  113  ls evidence/
+  114  history | tail -30 > evidence/terminal_history.txt

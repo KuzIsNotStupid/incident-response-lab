@@ -1,0 +1,1 @@
+-rwxrwxrwx 1 root root 0 янв  2 18:49 /tmp/.hidden_system_file
