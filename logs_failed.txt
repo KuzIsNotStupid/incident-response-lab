@@ -1,0 +1,5 @@
+vikktor  ssh:notty    127.0.0.1        Thu Jan  1 21:27 - 21:27  (00:00)    
+vikktor  ssh:notty    127.0.0.1        Thu Jan  1 21:26 - 21:26  (00:00)    
+
+btmp begins Thu Jan  1 21:26:35 2026
+vikktor  ssh:notty    127.0.0.1        Fri Jan  2 15:45 - 15:45  (00:00)    

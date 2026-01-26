@@ -1,0 +1,20 @@
+vikktor  pts/1        127.0.0.1        Fri Jan  2 15:35   still logged in   
+vikktor  tty1         :0               Fri Jan  2 15:00   still logged in   
+reboot   system boot  6.12.61-6.12-alt Fri Jan  2 18:50 - 15:42  (-3:-7)    
+vikktor  tty1         :0               Thu Jan  1 23:39 - 23:40  (00:00)    
+reboot   system boot  6.12.61-6.12-alt Fri Jan  2 03:29 - 23:40  (-3:-48)   
+vikktor  pts/2        127.0.0.1        Thu Jan  1 21:27 - 23:38  (02:11)    
+vikktor  pts/1        127.0.0.1        Thu Jan  1 21:26 - 23:38  (02:12)    
+vikktor  tty1         :0               Thu Jan  1 21:11 - 23:38  (02:26)    
+reboot   system boot  6.12.61-6.12-alt Thu Jan  1 21:11 - 23:38  (02:27)    
+vikktor  tty1         :0               Thu Jan  1 20:53 - 21:11  (00:17)    
+reboot   system boot  6.12.61-6.12-alt Thu Jan  1 20:52 - 21:11  (00:18)    
+root     pts/0        localhost        Thu Jan  1 20:52 - 20:52  (00:00)    
+root     pts/0        localhost        Thu Jan  1 20:51 - 20:52  (00:00)    
+root     pts/0        localhost        Thu Jan  1 20:51 - 20:51  (00:00)    
+vikktor  tty1         :0               Thu Jan  1 20:31 - 20:52  (00:21)    
+reboot   system boot  6.12.61-6.12-alt Fri Jan  2 00:20 - 20:52  (-3:-28)   
+vikktor  tty1         :0               Tue Dec 30 22:40 - 22:41  (00:00)    
+reboot   system boot  6.12.61-6.12-alt Wed Dec 31 02:29 - 22:41  (-3:-48)   
+
+wtmp begins Wed Dec 31 02:29:42 2025
